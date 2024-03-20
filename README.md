@@ -1,10 +1,10 @@
-## <h1>Application Spring Boot ElasticSearch</h1>
+## <h1>Outil de Gestion Kibana</h1>
 ***
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elasticco_kibana_logo_icon_169209.png" alt="drawing" width="280px"/>
 
 ## Informations Générales
 ***
-Mise en place du logiciel d'administration d elasticsearch
+Mise en place du logiciel d'administration du moteur de recherche elasticsearch
 
 ## Technologies
 ***
