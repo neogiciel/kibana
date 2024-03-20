@@ -1,6 +1,6 @@
 ## <h1>Application Spring Boot ElasticSearch</h1>
 ***
-<img src="https://user.oc-static.com/upload/2017/10/10/15076639807937_Elasticsearch-Logo-Color-V.jpg.png" alt="drawing" width="280px"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elasticco_kibana_logo_icon_169209.png" alt="drawing" width="280px"/>
 
 ## Informations Générales
 ***
