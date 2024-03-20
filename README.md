@@ -5,3 +5,6 @@
 ## Informations Générales
 ***
 Mise en place d'un moteur de recherche avec Spring-boot
+
+
+Utilisation d'un docker-compose
