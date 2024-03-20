@@ -4,13 +4,11 @@
 
 ## Informations Générales
 ***
-Mise en place d'un moteur de recherche avec Spring-boot
+Mise en place du logiciel d'administration d elasticsearch
+
 ## Technologies
 ***
-Technologies utilisées:
-* Java 17 
-* Maven 3.6
-* Spring-boot: 3.2.3
+
 ## Instalation
 ***
 Instalation et lancement du service elasticsearch sur le port 9200
@@ -82,12 +80,8 @@ networks:
   elknet:
 
 ```
-Lancement de l'application Spring-boot<br>
-```
-$ mvn  clean
-$ mvn spring-boot:run
-```
-Le service est accessible sur http://localhost:8080
+Url de Kibana<br>
+Le service est accessible sur http://localhost:5601
 
 ## FAQs
 ***
